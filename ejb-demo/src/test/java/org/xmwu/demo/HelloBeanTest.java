@@ -16,10 +16,10 @@ public class HelloBeanTest {
         assertEquals(2,hb.add(1, 1));
         
     }
-//    @Test
-//    public void helloTest(){
-//        HelloBean hb = new HelloBean();
-//        hb.setCustomer(new CustomerBean());
-//        assertEquals("hello, world!xiaoming,your age is 50",hb.hello("xiaoming"));
-//    }
+    @Test
+    public void helloTest(){
+        HelloBean hb = new HelloBean();
+        hb.setCustomer(new CustomerBean());
+        assertEquals("hello, world!xiaoming,your age is 50",hb.hello("xiaoming"));
+    }
 }
