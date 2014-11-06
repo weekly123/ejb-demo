@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="D:/dev_tool/java_dev/jboss-eap-6.2/bin/client/jboss-client.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk7"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ejb-demo"/>
+	<classpathentry kind="lib" path="D:/dev_tool/java_dev/jboss-eap-6.2/bin/client/jboss-cli-client.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
