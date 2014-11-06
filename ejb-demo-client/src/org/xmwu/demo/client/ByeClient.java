@@ -1,8 +1,4 @@
 /**
- * Copyright (c) 2014,TravelSky. 
- * All Rights Reserved.
- * TravelSky CONFIDENTIAL
- * 
  * Project Name:ejb-demo-client
  * Package Name:org.xmwu.demo.client
  * File Name:ByeClient.java
